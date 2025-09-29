@@ -1,0 +1,12 @@
+Liquid	Solid	Ext.Ph	Run		No.	Left	Right	Mean	Height	Width
+
+Water	Silicon	<none>	 		1	 25.9	 24.6	 25.2	0.410	3.991
+Water	Silicon	<none>	water		2	 25.5	 24.3	 24.9	0.405	3.989
+CN	Silicon	<none>	chlornap	3	 30.1	 29.8	 30.0	0.466	3.805
+CN	Silicon	<none>	chlornap	4	 29.6	 29.7	 29.7	0.463	3.806
+CN	Silicon	<none>	chlornap	5	 29.7	 29.8	 29.7	0.463	3.805
+Toluene	Silicon	<none>	Toluene7uL 	6	 11.5	180.0	 95.7	0.105	4.993
+Toluene	Silicon	<none>	Toluene3uL 	7	 96.4	  8.5	 52.4	0.104	3.636
+THF	DMA	<none>	thf 3ul		24	 25.0	 26.1	 25.6	0.377	3.882
+THF	DMA	<none>	thf 3ul		25	 23.1	 23.8	 23.5	0.350	3.852
+THF	DMA	<none>	thf 3ul		26	 23.3	 22.4	 22.9	0.340	3.843
